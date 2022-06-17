@@ -24,7 +24,7 @@ nový model s ~96% přesností na testovacím datasetu ([k vyzkoušení zde](htt
 <br>
 
 Predikce se zřetelně mění mezi 3. a 4. hvězdou, v souladu s tím, jak byly kategorie definovány.
-Model největší jistotu v extrémech (1 nebo 5 hvězd).  
+Model má největší jistotu v extrémech (1 nebo 5 hvězd).  
 Nejméně jisté jsou predikce 3-hvězdičkových recenzí.
 
 ![confusion_matrix](fig/confusion_matrix.png)
