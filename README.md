@@ -3,7 +3,7 @@
 [Hlavní notebook](https://github.com/jankounchained/szn-naborova-uloha/blob/main/uloha.ipynb)
 
 ## Metody
-- sentiment recenze se je reprezentován početem hvězd který zákazník dal produktu
+- sentiment recenze je reprezentován početem hvězd který zákazník dal produktu
 - minimální preprocessing, deduplikace
 - binarizace sentimentu na pouze negativní (3 a méně hvězdy) a pozitivní (4 hvězdy a více)
 - transfer learning: přeučení modelu distilBERT-base na klasifikaci recenzí
