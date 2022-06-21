@@ -59,7 +59,7 @@ Nezvládá.
 [{'label': 'POSITIVE', 'score': 0.9972133040428162}]
 
 >>>> classifier('What a great product!!!')
-[{'label': 'NEGATIVE', 'score': 0.9995976090431213}]
+[{'label': 'POSITIVE', 'score': 0.9995976090431213}]
 ```
 
 **C) Předpojatost**  
